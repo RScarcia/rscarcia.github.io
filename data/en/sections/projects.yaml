@@ -1,0 +1,85 @@
+# section information
+section:
+  name: Projects
+  id: projects
+  enable: true
+  weight: 4
+  showOnNavbar: true
+  # Can optionally hide the title in sections
+  # hideTitle: true
+
+# filter buttons
+buttons:
+- name: All
+  filter: "all"
+- name: Academic
+  filter: "academic"
+- name: Hobby
+  filter: "hobby"
+- name: Games
+  filter: "games"
+
+# your projects
+projects:
+- name: Shooter Game - Custom
+  logo: /images/sections/skills/unreal2.png
+  role: Developer
+  timeline: ""
+  repo: https://github.com/RScarcia/ShooterGame_Custom # If your project is a public repo on GitHub, then provide this link. it will show star count.
+  #url: "https://bitbucket.org/RScarcia/opencv_assistant/src/master/"  # If your project is not a public repo but it has a website or any external details url then provide it here. don't provide "repo" and "url" simultaneously.
+  summary: "Custom version of UE4 Shooter Game example project, developed for a Multiplayer environment."
+  tags: ["hobby", "games"]
+
+- name: OpenCV Assistant
+  logo: /images/sections/skills/python.png
+  role: Developer
+  timeline: ""
+  #repo: https://bitbucket.org/RScarcia/opencv_assistant/src/master/ # If your project is a public repo on GitHub, then provide this link. it will show star count.
+  url: "https://bitbucket.org/RScarcia/opencv_assistant/src/master/"  # If your project is not a public repo but it has a website or any external details url then provide it here. don't provide "repo" and "url" simultaneously.
+  summary: "Simple application for face recognition: an AI answers to the user only if his face is detected. It uses OpenCV alghoritms and Google Assitant as AI."
+  tags: ["academic"]
+
+- name: LAN File Sharing
+  logo: /images/sections/skills/c_sharp2.png
+  role: Developer
+  timeline: ""
+  repo: https://github.com/GiMoody/PDSProject
+  #url: ""
+  summary: Desktop application to share files or folders between two or more computers in the same LAN network.
+  tags: ["academic"]
+
+- name: Tree of Life - Ancient Guild
+  logo: /images/sections/skills/unity2.png
+  role: Developer
+  timeline: ""
+  #repo: https://github.com/hossainemruz/toha
+  url: "https://r8x-games.itch.io/tree-of-life"
+  summary: Desktop game made with Unity3D Engine.
+  tags: ["academic", "games"]
+  
+- name: The Wizard
+  logo: /images/sections/skills/blender3.png
+  role: Developer
+  timeline: ""
+  #repo: https://github.com/hossainemruz/toha
+  url: "https://youtu.be/VBk6zObF_20"
+  summary: Short animated video made with Blender 2.79.
+  tags: ["academic"]
+  
+- name: Keep Distant
+  logo: /images/sections/skills/unity2.png
+  role: Developer
+  timeline: ""
+  repo: https://github.com/alessiocali/StayAtHomeGameJam
+  #url: "https://youtu.be/VBk6zObF_20"
+  summary: "Unity3D game submission for itch.io StayAtHome GameJam."
+  tags: ["hobby", "games"]
+  
+- name: KNX Scheduler
+  logo: /images/sections/skills/Android.png
+  role: Developer
+  timeline: ""
+  #repo: https://github.com/alessiocali/StayAtHomeGameJam
+  #url: "https://youtu.be/VBk6zObF_20"
+  summary: Android application to manage various scenarios in a home automation system compliant with the KNX Standard.
+  tags: ["academic"]

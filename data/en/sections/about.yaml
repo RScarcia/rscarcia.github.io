@@ -1,0 +1,56 @@
+# section information
+section:
+  name: About
+  id: about
+  enable: true
+  weight: 1
+  showOnNavbar: true
+  template: sections/about.html
+
+# your designation
+designation: Software Engineer
+# your company information
+#company:
+  #name: Example Co.
+  #url: "https://www.example.com"
+
+# your resume. this file path should be relative to you "static" directory
+resume: "files/ScarciaRossella_CV.pdf"
+
+# a summary about you
+summary: 'I’ve always been passionate about science and technology and this has led me to choose Computer Engineering as a course of study. Later, thanks to various classes in my Master’s Degree, I’ve developed an interest in new technologies such as Virtual and Augmented Reality.'
+
+# your social links
+# give as many as you want. use font-awesome for the icons.
+socialLinks:
+- name: E-mail
+  icon: "fas fa-envelope"
+  url: "rossella.scarcia93@gmail.com"
+  
+- name: Github
+  icon: "fab fa-github"
+  url: "https://github.com/RScarcia"
+ 
+- name: LinkedIn
+  icon: "fab fa-linkedin"
+  url: "https://www.linkedin.com/in/rossellascarcia/"
+
+# your soft skills
+# give the percentage between 50 to 100 with 5 intervals.
+# currently supported colors: blue, yellow, pink, green, sky, orange
+softSkills:
+- name: Problem Solving
+  percentage: 90
+  color: blue
+- name: Team Work
+  percentage: 85
+  color: yellow
+- name: Communication
+  percentage: 90
+  color: green
+- name: Hard Working
+  percentage: 85
+  color: pink
+- name: Project Mngmt
+  percentage: 90
+  color: sky
