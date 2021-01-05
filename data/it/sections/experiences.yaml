@@ -1,0 +1,50 @@
+# section information
+section:
+  name: Experiences
+  id: experiences
+  enable: true
+  weight: 3
+  showOnNavbar: true
+  # Can optionally hide the title in sections
+  # hideTitle: true 
+
+# Your experiences
+experiences:
+- company:
+    name: Thales Alenia Space Italia
+    url: "https://www.thalesgroup.com"
+    location: Torino
+    # company overview
+    overview: "La tesi è composta da due parti:\n
+               - Uno script Python per la creazione di manichini rappresentanti le sei categorie percentili definite dalla NASA.\n
+               - Un sistema di addestramento in Realtà Virtuale sviluppato utilizzando Unreal Engine 4."
+  positions:
+  - designation: "Sviluppo di un manichino digitale per il design ergonomico aerospaziale e un sistema di addestramento in RV. (Tesi di laurea)"
+    start: Nov 2019
+    # don't provide end date if you are currently working there. It will be replaced by "Present"
+    end: Ott 2020
+    # give some points about what was your responsibilities at the company.
+
+- company:
+    name: Politecnico di Torino
+    url: "https://www.polito.it/?lang=en"
+    location: Torino
+    overview: "- Introduzione alla teoria e programmazione della computer grafica, alla teoria della computer animation e ad applicazioni per realtà virtuale.\n
+               - Introduzione all'acquisizione, all'elaborazione e al riconoscimento delle immagini mediante tecniche di computer vision."
+  positions:
+  - designation: Laurea Magistrale in Ingegneria Informatica
+    start: Marzo 2017
+    end: Ott 2020
+
+- company:
+    name: Università del Salento
+    url: "https://www.unisalento.it/"
+    location: Lecce
+    overview: "- Matematica, Fisica e Algebra.\n
+               - Elaborazione Segnali e Comunicazione.\n
+               - Protocolli e Strutture di Rete.\n
+               - OOP (Java) e Sistemi Operativi (Unix)."
+  positions:
+  - designation: Laurea Triennale in Ingegneria dell'Informazione
+    start: Sett 2012
+    end: Gen 2017

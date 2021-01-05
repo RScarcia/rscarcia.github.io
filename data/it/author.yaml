@@ -1,0 +1,9 @@
+# some information about you
+name: "Rossella Scarcia"
+nickname: "Rossella"
+# greeting message before your name. it will default to "Hi! I am" if not provided
+greeting: "Ciao, mi chiamo"
+image: "images/author/laurea2.png"
+# give your some contact information. they will be used in the footer
+contactInfo:
+  email: "rossella.scarcia93@gmail.com"

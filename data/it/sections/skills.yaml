@@ -1,0 +1,48 @@
+# section information
+section:
+  name: Skills
+  id: skills
+  enable: true
+  weight: 2
+  showOnNavbar: true
+  # Can optionally hide the title in sections
+  # hideTitle: true
+
+# Your Skills.
+# Give a summary of you each skill in the summary section.
+skills:
+- name: C++
+  logo: "/images/sections/skills/c++.png"
+  summary: "Utilizzato per lo sviluppo in Unreal Engine o per applicazioni desktop (Qt)."
+  
+- name: C#
+  logo: "/images/sections/skills/c_sharp2.png"
+  summary: "Linguaggio principale utilizzato nello sviluppo di applicazioni con Unity3D."
+
+- name: Python
+  logo: "/images/sections/skills/python.png"
+  summary: "Utilizzato nello sviluppo di applicazioni con OpenCV o per piccoli script."
+
+- name: Unreal Engine
+  logo: "/images/sections/skills/unreal2.png"
+  summary: "Esperta nello sviluppo di UE4. Utilizzato nella progettazione e nello sviluppo del progetto di Tesi di Laurea Magistrale."
+  url: "https://www.unrealengine.com/"
+  
+- name: Unity3D
+  logo: "/images/sections/skills/unity2.png"
+  summary: "Ha lavorato a diversi progetti in Unity: sia per scopi universitari che personali come le GameJams."
+  url: "https://unity.com/"
+  
+- name: Git
+  logo: "images/sections/skills/git.png"
+  summary: "A proprio agio con lo sviluppo basato su git. Utilizzato principalmente Github o Bitbucket."
+
+- name: VR-AR
+  logo: "/images/sections/skills/vr.png"
+  summary: "Esperta nell'uso di strumenti VR come HTC Vive PRO. Conoscenza di base di strumenti AR come Hololens 1 e 2."
+
+- name: Blender
+  logo: "/images/sections/skills/blender3.png"
+  summary: "Grande fan della grafica 3D. Utilizzato principalmente per progetti personali e in alcuni progetti universitari."
+  url: "https://www.blender.org/"
+  
