@@ -34,8 +34,8 @@ projects:
   logo: /images/sections/skills/python.png
   role: Developer
   timeline: ""
-  #repo: https://bitbucket.org/RScarcia/opencv_assistant/src/master/ # If your project is a public repo on GitHub, then provide this link. it will show star count.
-  url: "https://bitbucket.org/RScarcia/opencv_assistant/src/master/"  # If your project is not a public repo but it has a website or any external details url then provide it here. don't provide "repo" and "url" simultaneously.
+  repo: https://github.com/RScarcia/OpenCV_Assistant # If your project is a public repo on GitHub, then provide this link. it will show star count.
+  #url: "https://bitbucket.org/RScarcia/opencv_assistant/src/master/"  # If your project is not a public repo but it has a website or any external details url then provide it here. don't provide "repo" and "url" simultaneously.
   summary: "Simple application for face recognition: an AI answers to the user only if his face is detected. It uses OpenCV alghoritms and Google Assitant as AI."
   tags: ["academic"]
 
