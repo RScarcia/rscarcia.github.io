@@ -11,6 +11,21 @@ section:
 # Your experiences
 experiences:
 - company:
+    name: TXT GROUP
+    url: "https://www.txtgroup.com/"
+    location: Milano
+    # company overview
+    overview: "TXT Group is an international, Global Digital Enabler, specialised provider of engineering software solutions
+                supporting its customers in high-tech markets in their mission and business - critical core processes and throughout their
+                product life-cycles.​"
+  positions:
+  - designation: "Aerospace Software Engineer"
+    start: Mar 2021
+    # don't provide end date if you are currently working there. It will be replaced by "Present"
+  - responsibilities:
+    - Development of [Pacelab WEAVR](https://pace.txtgroup.com/products/extended-reality/pacelab-weavr/) software. 
+
+- company:
     name: Thales Alenia Space Italia
     url: "https://www.thalesgroup.com"
     location: Torino

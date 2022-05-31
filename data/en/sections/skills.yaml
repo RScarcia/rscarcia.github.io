@@ -11,28 +11,28 @@ section:
 # Your Skills.
 # Give a summary of you each skill in the summary section.
 skills:
+- name: C#
+  logo: "/images/sections/skills/c_sharp2.png"
+  summary: "Main language used in application development with Unity3D."
+  
 - name: C++
   logo: "/images/sections/skills/c++.png"
   summary: "Used for Unreal Engine development or Desktop application (Qt)."
   
-- name: C#
-  logo: "/images/sections/skills/c_sharp2.png"
-  summary: "Main language used in application development with Unity3D."
-
 - name: Python
   logo: "/images/sections/skills/python.png"
   summary: "Used in the development of application with OpenCV or for small scripts."
+
+- name: Unity3D
+  logo: "/images/sections/skills/unity2.png"
+  summary: "Worked with several projects in Unity: both for university and personal purposes such as Game Jams."
+  url: "https://unity.com/"
 
 - name: Unreal Engine
   logo: "/images/sections/skills/unreal2.png"
   summary: "Experienced in UE4 development. Used in the design and development of the Master Thesis project."
   url: "https://www.unrealengine.com/"
-  
-- name: Unity3D
-  logo: "/images/sections/skills/unity2.png"
-  summary: "Worked with several projects in Unity: both for university and personal purposes such as Game Jams."
-  url: "https://unity.com/"
-  
+   
 - name: Git
   logo: "images/sections/skills/git.png"
   summary: "Comfortable with git-based development. Mostly used Github or Bitbucket."
